@@ -5,7 +5,5 @@
   
 * ***###Aqui apresento os projetos desenvolvidos como laboratório para criar sempre os melhres produtos aos clientes. São criações usando bibliotecas frameworks, códigos puro de HTML, CSS e javascript ou typescript ***
 * ***###Aproveito para apresentar as tecnologias que uso assim como as abordagens voltadas para atender as dferentes mídias disponíveis no mercado, seguindo o princípio : MOBILE FIRST.***
-* **![Visual Studio Marketplace Release Date](https://img.shields.io/visual-studio-marketplace/release-date/:extensionId)**
-* **![bStats Servers](https://img.shields.io/bstats/servers/:pluginid)**
 
 
