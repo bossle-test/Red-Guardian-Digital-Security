@@ -6,7 +6,6 @@
 * ***###Aqui apresento os projetos desenvolvidos como laboratório para criar sempre os melhres produtos aos clientes. São criações usando bibliotecas frameworks, códigos puro de HTML, CSS e javascript ou typescript ***
 * ***###Aproveito para apresentar as tecnologias que uso assim como as abordagens voltadas para atender as dferentes mídias disponíveis no mercado, seguindo o princípio : MOBILE FIRST.***
 * **
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />**
           
 * **Se você esta passando por aqui seja bem-vindo, essa página está em construção**
 
